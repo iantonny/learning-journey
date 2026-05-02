@@ -1,31 +1,40 @@
 # My AI Engineering Journey 🚀
-### From Zero to AI Engineer in 9 Months
-
-**Started:** April 27 2026
-**Goal:** January 2027
-**Daily Commitment:** 6 hours every single day
 
 ---
 
 ## Who I Am
 Ian Mungai — Nairobi, Kenya 🇰🇪
 BBIT Student at JKUAT
-Trilingual: English, Swahili, Kikuyu
-Building AI tools for African languages
+
+I want to understand how AI actually works —
+not just use it, but build it.
+Build things I own. Things no company controls.
+
+My goal is bigger than a job.
+I want to use technology to solve real African problems.
+The kind of problems that have been ignored for too long.
+
+AI Engineering is where I start.
+Cybersecurity is where I go next.
+Africa is why I am doing all of it.
+
+I am not in a rush. I am building to last.
 
 ---
 
-## The 9 Month Roadmap
-- [x] Month 1-2: CS50 Harvard ← Currently here
-- [ ] Month 3: Python Mastery
-- [ ] Month 4: Data Analysis
-- [ ] Month 5-6: Machine Learning
-- [ ] Month 7-8: AI Engineering
-- [ ] Month 9: Deploy and Get Hired
+## The Roadmap
+- [x] Phase 1: CS50 Harvard — C, Python, SQL ← Currently here
+- [ ] Phase 2: Python Mastery
+- [ ] Phase 3: Data Analysis
+- [ ] Phase 4: Machine Learning
+- [ ] Phase 5: AI Engineering
+- [ ] Phase 6: Cybersecurity
+- [ ] Phase 7: Build and Deploy My Own Things
 
 ---
 
 ## WEEK 1 — C Basics ✅
+
 **Concepts learned:**
 - Variables and data types
 - If else conditions
@@ -34,7 +43,7 @@ Building AI tools for African languages
 - Custom functions
 - Greedy algorithms
 
-**Programs built:**
+**Practice Programs:**
 | Program | What it does |
 |---------|-------------|
 | hello.c | First hello world program |
@@ -47,12 +56,12 @@ Building AI tools for African languages
 | addition.c | Adds two numbers |
 
 **Problem Set 1 — All Submitted ✅**
-| Problem | Concept |
-|---------|---------|
-| Hello It's Me | String input and output |
-| Mario Less | Nested loops — single pyramid |
-| Mario More | Nested loops — double pyramid |
-| Cash | Greedy algorithm with while loops |
+| Problem | What it does | Concept |
+|---------|-------------|---------|
+| hello_me.c | Greets user by name | String input and output |
+| mario_less.c | Builds single pyramid | Nested loops |
+| mario_more.c | Builds double pyramid | Nested loops |
+| cash.c | Calculates minimum coins | Greedy algorithm |
 
 ---
 
@@ -66,8 +75,50 @@ Building AI tools for African languages
 
 ---
 
+## WEEK 4 — Memory
+*Coming soon...*
+
+---
+
+## WEEK 5 — Data Structures
+*Coming soon...*
+
+---
+
+## WEEK 6 — Python
+*Coming soon...*
+
+---
+
+## WEEK 7 — SQL
+*Coming soon...*
+
+---
+
+## WEEK 8 — HTML CSS JavaScript
+*Coming soon...*
+
+---
+
+## WEEK 9 — Flask
+*Coming soon...*
+
+---
+
+## WEEK 10 — Final Project
+*Coming soon...*
+
+---
+
 ## Why This Matters
-Most AI tools ignore African languages completely.
+Most technology solutions ignore Africa.
 I am building toward changing that.
-Swahili and Kikuyu AI tools that millions need.
-This repository documents every step of that journey.
+Starting with AI. Then cybersecurity.
+Using technology to solve real problems
+for real people across Africa.
+
+This repository documents every single step.
+Every program. Every struggle. Every win.
+
+---
+*Updated weekly — follow along* 🚀
