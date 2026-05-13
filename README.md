@@ -38,6 +38,8 @@ AI Engineering → Cybersecurity → Building impactful systems across Africa
 
 ## 📅 Progress
 
+---
+
 ### ✅ Week 1 — C Basics
 
 **Concepts Learned:**
@@ -88,6 +90,7 @@ AI Engineering → Cybersecurity → Building impactful systems across Africa
 - atoi — converting string to integer
 - isdigit — validating numeric input
 - Modulo arithmetic — wrapping numbers within a range
+- Null terminator — how strings end in C
 
 **Practice Programs:**
 | Program | Description |
@@ -109,15 +112,53 @@ AI Engineering → Cybersecurity → Building impactful systems across Africa
 | pset2_readability.c | Calculates reading grade level using Coleman-Liau index |
 | pset2_caesar.c | Encrypts text using Caesar cipher with command line key |
 
-**Key Insight From Week 2:**
-Arrays make programs faster and smarter.
-Storing 1000 values in one place instead of 1000 separate variables.
-This is exactly how AI handles massive datasets.
+> 💡 **Key Insight:** Arrays make programs faster and smarter. Storing 1000 values in one place instead of 1000 separate variables. This is exactly how AI handles massive datasets.
 
 ---
 
-### 🚧 Week 3 — Algorithms
-*Coming soon...*
+### ✅ Week 3 — Algorithms
+
+**Concepts Learned:**
+- Linear search — searching arrays one element at a time
+- Binary search — eliminating half the search space each step
+- Structs — creating custom data types combining multiple values
+- typedef — giving structs clean readable names
+- strcmp — comparing strings correctly in C
+- Recursion — functions that call themselves with smaller problems
+- Base case — the condition that stops recursion
+- Call stack — how function calls stack and unwind
+- Stack unwinding — how recursion prints in reverse order
+- Case insensitive search — normalizing input before comparing
+- Boolean functions — returning true or false for flow control
+- 2D arrays — storing preferences across two dimensions
+- Defensive programming — validating all input before processing
+- Plurality voting — first past the post election system
+- Ranked choice voting — elimination rounds until majority winner
+- Tie detection — checking all remaining candidates equally
+- Majority threshold — using float division for accurate comparison
+
+**Practice Programs:**
+| Program | Description |
+|---------|-------------|
+| linear_search_v1.c | Buggy version — else inside loop causes premature exit |
+| linear_search_v2.c | Buggy version — missing returns prints both outcomes |
+| linear_search_v3.c | Fixed linear search on integer array |
+| linear_search_strings.c | Linear search on string array using strcmp |
+| phonebook.c | Contact search using structs and linear search |
+| phonebook_v2.c | Case insensitive search using tolower normalization |
+| recursion_pyramid.c | Draw pyramid using recursive function and stack unwinding |
+| largest_number_v1.c | Find largest in array — first attempt with help |
+| largest_number_v2.c | Find largest in array — fully independent rewrite |
+
+**Problem Set 3 — Submitted ✅**
+| Problem | Description |
+|---------|-------------|
+| plurality.c | Election system with vote validation and tie handling |
+| runoff.c | Ranked choice election with elimination rounds and preference tracking |
+
+> 💡 **Key Insight:** Recursion does not think forward — it goes deep first and returns on the way back. The call stack flips the order. The function called first prints last.
+
+> 💡 **Key Insight:** Bugs are not failures. They are information. Every bug fixed is a concept permanently understood.
 
 ---
 
@@ -126,8 +167,13 @@ This is exactly how AI handles massive datasets.
 
 ---
 
+### 🚧 Week 5 — Data Structures
+*Coming soon...*
+
+---
+
 ## 🛠️ Projects
-*Starting after Week 4 mastery — simple to complex*
+*Starting after Week 5 mastery — 5 original C projects built from scratch*
 
 ---
 
